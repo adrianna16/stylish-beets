@@ -1,5 +1,6 @@
 html {
   box-sizing: border-box;
+  background-color: #c9b5ab;
 }
 
 *, *::before, *::after {
@@ -8,3 +9,8 @@ html {
 
 /* font-family: 'PT Sans', sans-serif;
 font-family: 'PT Serif', serif; */
+
+h1, h2 {
+  color: #3f1622;
+  font-family: 'PT Sans', sans-serif;
+}
