@@ -19,6 +19,7 @@ h1, h2 {
 img {
   width: 100%;
 }
+
 nav ol {
   list-style-type: none;
 }
@@ -27,6 +28,7 @@ a {
   color: #8f2440;
   text-decoration: none;
 }
+
 nav ol li a {
   font-family: "PT Sans", sans-serif;
   font-size: 1.125rem;
@@ -72,11 +74,11 @@ dl dd {
 .servings {
   font-family: "PT Serif", serif;
   font-style: italic;
-  font-size: .8rem
+  font-size: .8rem;
 }
 
 strong {
-font-weight: normal;
+  font-weight: normal;
 }
 
 footer a {
